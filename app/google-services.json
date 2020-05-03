@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "711801440256",
+    "firebase_url": "https://ayj-mov.firebaseio.com",
+    "project_id": "ayj-mov",
+    "storage_bucket": "ayj-mov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711801440256:android:5b317f08728632bd8030e5",
+        "android_client_info": {
+          "package_name": "com.ayeje.ayjmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711801440256-2cu8splt9uofi97ed9ptgr1uqg3ohj1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0v7HUY5Jf2uVDRk6a1LnNbgyefTI_bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711801440256-2cu8splt9uofi97ed9ptgr1uqg3ohj1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
